@@ -1,0 +1,23 @@
+[
+  {
+    "id": "account-access",
+    "question_en": "How do I sign in?",
+    "question_ur": "میں سائن اِن کیسے کروں؟",
+    "answer_en": "Open the sign-in page, enter your email address, and use the verification code sent to your inbox.",
+    "answer_ur": "سائن اِن صفحہ کھولیں، اپنا ای میل ایڈریس درج کریں، اور ان باکس میں بھیجا گیا تصدیقی کوڈ استعمال کریں۔"
+  },
+  {
+    "id": "update-profile",
+    "question_en": "How can I update my profile?",
+    "question_ur": "میں اپنی پروفائل کیسے اپ ڈیٹ کروں؟",
+    "answer_en": "Open your profile settings, edit the available details, and save your changes.",
+    "answer_ur": "اپنی پروفائل سیٹنگز کھولیں، دستیاب معلومات تبدیل کریں، اور تبدیلیاں محفوظ کریں۔"
+  },
+  {
+    "id": "support-contact",
+    "question_en": "How do I contact support?",
+    "question_ur": "میں سپورٹ سے کیسے رابطہ کروں؟",
+    "answer_en": "Send a support message with a short description of the issue and any relevant order or account reference.",
+    "answer_ur": "مسئلے کی مختصر تفصیل اور متعلقہ آرڈر یا اکاؤنٹ حوالہ کے ساتھ سپورٹ کو پیغام بھیجیں۔"
+  }
+]
